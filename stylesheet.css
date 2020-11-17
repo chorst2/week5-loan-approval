@@ -1,0 +1,13 @@
+h1{font-family: "Brush Script MT", serif}
+
+h3{font-family: "optima", serif}
+
+#output{color: ghostwhite}
+
+header{color: black; padding-top:20px; text-align:center;margin-left:auto;
+    margin-right:auto; height: 80px; }
+
+#document{width:80%; margin-left:auto; margin-right:auto; min-width:960px;
+    max-width:2048px; background-image: linear-gradient(#FFFFFF, darkblue); padding: 15px }
+
+label{color:white}
